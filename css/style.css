@@ -15,6 +15,8 @@
 .logostyle{
     color: #5e5e5e ;
 }
+.row{
+margin:0 0 !important;}
 .logo{
     font-size: 28px;
     width: 131px;
